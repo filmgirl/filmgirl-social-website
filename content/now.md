@@ -1,6 +1,6 @@
 ---
 title: "Now"
-updated: "January 2026"
+updated: "January 28, 2026"
 ---
 
 ## What I'm Doing Now

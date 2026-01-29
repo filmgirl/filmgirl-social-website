@@ -7,12 +7,5 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://filmgirl.github.io/filmgirl-social-website/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Now</title>
-      <link>https://filmgirl.github.io/filmgirl-social-website/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filmgirl.github.io/filmgirl-social-website/now/</guid>
-      <description>&lt;h2 id=&#34;what-im-doing-now&#34;&gt;What I&amp;rsquo;m Doing Now&lt;/h2&gt;&#xA;&lt;p&gt;This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;. It&amp;rsquo;s a snapshot of what I&amp;rsquo;m focused on at this point in my life.&lt;/p&gt;&#xA;&lt;h3 id=&#34;work&#34;&gt;Work&lt;/h3&gt;&#xA;&lt;p&gt;Currently working in &lt;strong&gt;Developer Relations at GitHub&lt;/strong&gt;, helping developers build amazing things with GitHub&amp;rsquo;s tools and platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building out this personal site&lt;/li&gt;&#xA;&lt;li&gt;Exploring AI development tools and integrations&lt;/li&gt;&#xA;&lt;li&gt;Creating content about developer productivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;watching&#34;&gt;Watching&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Pitt&lt;/strong&gt; - obsessed with this show right now&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fallout&lt;/strong&gt; - still thinking about it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;reading&#34;&gt;Reading&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Add what you&amp;rsquo;re currently reading&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

@@ -36,4 +36,4 @@ Check out my [Spotify playlist](/filmgirl-social-website/) for what I'm vibing t
 
 ---
 
-*This page is inspired by [Derek Sivers' /now page movement](https://nownownow.com/about).*
+*This page is inspired by [Derek Sivers' /now page](https://sive.rs/now). If you have your own website, [you should make one too](https://nownownow.com/about).*

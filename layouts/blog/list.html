@@ -23,19 +23,6 @@
             <p class="text-gray-400">Thoughts, tutorials, and musings</p>
         </div>
 
-        <!-- Categories -->
-        {{ $categories := .Site.Taxonomies.categories }}
-        {{ if $categories }}
-        <div class="mb-8 flex flex-wrap justify-center gap-2">
-            {{ range $name, $taxonomy := $categories }}
-            <a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize }}/" 
-               class="px-3 py-1 bg-gray-800 hover:bg-gray-700 rounded-full text-sm text-gray-300 transition-colors">
-                {{ $name }} ({{ len $taxonomy }})
-            </a>
-            {{ end }}
-        </div>
-        {{ end }}
-
         <!-- Blog Posts -->
         <div class="space-y-6">
             {{ range .Pages.ByDate.Reverse }}
@@ -61,6 +48,22 @@
             <p class="text-center text-gray-400">No posts yet. Check back soon!</p>
             {{ end }}
         </div>
+
+        <!-- Categories -->
+        {{ $categories := .Site.Taxonomies.categories }}
+        {{ if $categories }}
+        <div class="mt-10 pt-8 border-t border-gray-700/50">
+            <h3 class="text-center text-sm text-gray-500 mb-4">Browse by Category</h3>
+            <div class="flex flex-wrap justify-center gap-2">
+                {{ range $name, $taxonomy := $categories }}
+                <a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize }}/" 
+                   class="px-3 py-1 bg-gray-800 hover:bg-gray-700 rounded-full text-sm text-gray-300 transition-colors">
+                    {{ $name }} ({{ len $taxonomy }})
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
     </div>
 
     <script src="{{ "js/script.js" | relURL }}"></script>

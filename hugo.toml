@@ -1,6 +1,6 @@
 baseURL = 'https://filmgirl.github.io/filmgirl-social-website/'
 languageCode = 'en-us'
-title = 'Christina Warren'
+title = 'filmgirl.social'
 theme = 'LucentLink-Hugo'
 
 [params]

@@ -30,7 +30,7 @@ links:
     icon: "fas fa-clock"
     title: "Now"
     description: "What I'm up to right now"
-  - href: "/blog/"
+  - href: "https://christina.dev/blog/"
     icon: "fas fa-rss"
     title: "Blog"
     description: "Read my latest posts"

@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filmgirl.github.io/filmgirl-social-website/blog/</loc>
+    <loc>http://localhost:1313/filmgirl-social-website/blog/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://filmgirl.github.io/filmgirl-social-website/categories/</loc>
+    <loc>http://localhost:1313/filmgirl-social-website/categories/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://filmgirl.github.io/filmgirl-social-website/</loc>
+    <loc>http://localhost:1313/filmgirl-social-website/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://filmgirl.github.io/filmgirl-social-website/categories/updates/</loc>
+    <loc>http://localhost:1313/filmgirl-social-website/categories/updates/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://filmgirl.github.io/filmgirl-social-website/blog/welcome-to-my-blog/</loc>
+    <loc>http://localhost:1313/filmgirl-social-website/blog/welcome-to-my-blog/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://filmgirl.github.io/filmgirl-social-website/now/</loc>
+    <loc>http://localhost:1313/filmgirl-social-website/now/</loc>
   </url>
 </urlset>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christina Warren on filmgirl.social</title>
-    <link>https://filmgirl.github.io/filmgirl-social-website/</link>
+    <link>http://localhost:1313/filmgirl-social-website/</link>
     <description>Recent content in Christina Warren on filmgirl.social</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://filmgirl.github.io/filmgirl-social-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/filmgirl-social-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to My Blog</title>
-      <link>https://filmgirl.github.io/filmgirl-social-website/blog/welcome-to-my-blog/</link>
+      <link>http://localhost:1313/filmgirl-social-website/blog/welcome-to-my-blog/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://filmgirl.github.io/filmgirl-social-website/blog/welcome-to-my-blog/</guid>
+      <guid>http://localhost:1313/filmgirl-social-website/blog/welcome-to-my-blog/</guid>
       <description>&lt;p&gt;Welcome to my blog! 🎉&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m excited to finally have a space where I can share my thoughts on tech, development, pop culture, and everything in between.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-to-expect&#34;&gt;What to Expect&lt;/h2&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ll be writing about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech &amp;amp; Development&lt;/strong&gt; - Tutorials, tips, and thoughts on the latest in tech&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pop Culture&lt;/strong&gt; - Because we all need a break from code sometimes&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Behind the Scenes&lt;/strong&gt; - What I&amp;rsquo;m working on and learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;stay-connected&#34;&gt;Stay Connected&lt;/h2&gt;&#xA;&lt;p&gt;Make sure to follow me on social media for updates, or check back here regularly for new posts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Now</title>
-      <link>https://filmgirl.github.io/filmgirl-social-website/now/</link>
+      <link>http://localhost:1313/filmgirl-social-website/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filmgirl.github.io/filmgirl-social-website/now/</guid>
+      <guid>http://localhost:1313/filmgirl-social-website/now/</guid>
       <description>&lt;h2 id=&#34;what-im-doing-now&#34;&gt;What I&amp;rsquo;m Doing Now&lt;/h2&gt;&#xA;&lt;p&gt;This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;. It&amp;rsquo;s a snapshot of what I&amp;rsquo;m focused on at this point in my life.&lt;/p&gt;&#xA;&lt;h3 id=&#34;work&#34;&gt;Work&lt;/h3&gt;&#xA;&lt;p&gt;Currently working in &lt;strong&gt;Developer Relations at GitHub&lt;/strong&gt;, helping developers build amazing things with GitHub&amp;rsquo;s tools and platform.&lt;/p&gt;&#xA;&lt;h3 id=&#34;current-projects&#34;&gt;Current Projects&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building out this personal site&lt;/li&gt;&#xA;&lt;li&gt;Exploring AI development tools and integrations&lt;/li&gt;&#xA;&lt;li&gt;Creating content about developer productivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;watching&#34;&gt;Watching&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Pitt&lt;/strong&gt; - obsessed with this show right now&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fallout&lt;/strong&gt; - still thinking about it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;reading&#34;&gt;Reading&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Add what you&amp;rsquo;re currently reading&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

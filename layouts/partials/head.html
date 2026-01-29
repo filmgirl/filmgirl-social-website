@@ -7,9 +7,5 @@
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
-    <!-- RSS Feed -->
-    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} - Blog RSS" href="{{ .Site.BaseURL }}blog/index.xml">
-    {{ with .OutputFormats.Get "RSS" }}
-    <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">
-    {{ end }}
+
   </head>

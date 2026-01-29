@@ -6,10 +6,3 @@ theme = 'LucentLink-Hugo'
 [params]
   description = "Developer | Content Creator | Opinion Haver | Pop Culture Devotee"
   author = "Christina Warren"
-
-[taxonomies]
-  category = "categories"
-
-[outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]

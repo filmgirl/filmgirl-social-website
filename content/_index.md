@@ -31,7 +31,7 @@ links:
     title: "Now"
     description: "What I'm up to right now"
   - href: "/blog/"
-    icon: "fas fa-blog"
+    icon: "fas fa-rss"
     title: "Blog"
     description: "Read my latest posts"
   - href: "https://youtube.com/@ChristinaWarren"

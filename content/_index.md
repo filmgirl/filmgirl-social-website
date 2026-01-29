@@ -24,6 +24,10 @@ socials:
 links:
   - href: "https://christina.dev"
     icon: "fas fa-house"
+    title: "Website"
+    description: "My main website"
+  - href: "/blog/"
+    icon: "fas fa-blog"
     title: "Blog"
     description: "Read my latest posts"
   - href: "https://youtube.com/@ChristinaWarren"

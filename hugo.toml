@@ -2,10 +2,12 @@ baseURL = 'https://filmgirl.github.io/filmgirl-social-website/'
 languageCode = 'en-us'
 title = 'Christina Warren'
 theme = 'LucentLink-Hugo'
-disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "Developer | Content Creator | Opinion Haver | Pop Culture Devotee"
+
+[taxonomies]
+  category = "categories"
 
 [outputs]
   home = ["HTML"]

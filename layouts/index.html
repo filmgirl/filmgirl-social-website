@@ -15,6 +15,9 @@
         <!-- Spotify Embed -->
         {{ partial "spotify-playlist.html" . }}
 
+        <!-- Latest Blog Posts -->
+        {{ partial "latest-posts.html" . }}
+
         <!-- About Me section -->
         {{ partial "about.html" . }}
 
@@ -24,6 +27,6 @@
         
     </div>
 
-    <script src="js/script.js"></script>
+    <script src="{{ "js/script.js" | relURL }}"></script>
 </body>
 </html>
